@@ -1,0 +1,25 @@
+{
+  "name": "6connect-ip-statistics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^5.2.17",
+    "url": "^0.11.0",
+    "ws": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CircleClick/6connect-ip-statistics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CircleClick/6connect-ip-statistics/issues"
+  },
+  "homepage": "https://github.com/CircleClick/6connect-ip-statistics#readme"
+}
