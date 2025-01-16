@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "mongoose": "^5.13.20",
+    "mongoose": "^8.9.5",
     "url": "^0.11.0",
     "ws": "^6.2.3"
   },
